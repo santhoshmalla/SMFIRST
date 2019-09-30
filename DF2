@@ -1,0 +1,7 @@
+The code is quite simple, still lets understand it.
+Once the function chatty() is invoked , a default message will be displayed:
+ this is a test
+ test 1 
+ test 2
+ test 3 
+
